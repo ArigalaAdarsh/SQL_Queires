@@ -1,5 +1,5 @@
  
- File:1 
+ /* Tables Employee,Employee-Bonus,Employee-Title */
  
  1. Display the “FIRST_NAME” from Employee table using the alias name as Employee_name.
 select FIRST_NAME  as Employee_name from Employee;
