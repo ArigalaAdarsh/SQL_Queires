@@ -37,7 +37,7 @@ VALUES
 ('JULIANA', 'BDPS', 'MCA', 22000),
 ('KAMALA', 'PRAGATHI', 'DCA', 5000),
 ('MARY', 'SABHARI', 'PGDCA', 4500);
-
+```
 ### `software` Table
 
 The `software` table stores information about software products, including the product name, title, development language, and cost-related data.
@@ -70,7 +70,7 @@ VALUES
 ('MARY', 'FINANCIAL ACCT.', 'ORACLE', 18000, 85000, 4),
 ('HONEY', 'CODE_GENERATOR', 'C', 4500, 20000, 23),
 ('RAM', 'CODE', 'C', 450, 2000, 2);
-
+```
 ### `programmer` Table
 
 The `programmer` table contains details about programmers, including their personal information, professional skills, and salary.
